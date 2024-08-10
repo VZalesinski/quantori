@@ -1,7 +1,7 @@
 # Quantori test-project React + Vite
 
 To run project on your comptuter:
-1. Clone repository
+1. Clone repository `git clone https://github.com/VZalesinski/quantori.git`
 2. Install dependencies `npm install`
 3. Run project `npm run dev`
 
