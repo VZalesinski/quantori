@@ -1,8 +1,10 @@
-# React + Vite
+# Quantori test-project React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To run project on your comptuter:
+1. Clone repository
+2. Install dependencies `npm install`
+3. Run project `npm run dev`
 
-Currently, two official plugins are available:
+if you want to login in you have to use **username** and **password** from [this link https://dummyjson.com/users](https://dummyjson.com/users)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project created using React, Vite, Tailwind, Shadcn-UI, [dummy-json](https://dummyjson.com/docs/auth)
